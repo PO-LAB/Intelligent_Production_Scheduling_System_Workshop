@@ -1,6 +1,8 @@
 # Intelligent_Production_Scheduling_System_Workshop <br>
 
-## § Python 排程數學規劃教學 - JSP by using Mathematical Programming in Python<br>
+## 2018 智慧生產排程系統研習會<br>
+
+### § Python 排程數學規劃教學 - JSP by using Mathematical Programming in Python<br>
 |更新時間|文章|
 |---|---|
 |2018|[使用工具](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7.md)|
@@ -9,14 +11,14 @@
 |2018|[FJSP](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Flexible%20Job%20Shop%20Problem.md)|
 
 
-## § Python 排程 AI 演算法教學 - Genetic Algorithm <br>
+### § Python 排程 AI 演算法教學 - Genetic Algorithm <br>
 
-## Introduction
+### Introduction
 |更新時間|文章|
 |---|---|
 |2018|[Genetic Algorithm (GA)](https://github.com/PO-LAB/Intelligent_Production_Scheduling_System_Workshop/blob/master/GA_folder/GA/GA.md)|
 
-## Implementation with Python
+### Implementation with Python
 |更新時間|文章|連結|
 |---|---|---|
 |2018|Genetic Algorithm for Job Shop Scheduling|[Documentation](https://github.com/PO-LAB/Intelligent_Production_Scheduling_System_Workshop/blob/master/GA_folder/GA-jobshop/GA_For_Jobshop.md) / [Example](https://wurmen.github.io/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/implementation%20with%20python/GA-jobshop/Example1.html) / [code](https://github.com/PO-LAB/Intelligent_Production_Scheduling_System_Workshop/blob/master/GA_folder/GA-jobshop/GA_jobshop_makespan.py) / [Folder](https://github.com/PO-LAB/Intelligent_Production_Scheduling_System_Workshop/tree/master/GA_folder/GA-jobshop)|
