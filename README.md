@@ -16,7 +16,7 @@
 |2018|[JSP](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Job%20shop%20scheduling%20problem.md)|
 |2018|[FJSP](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Flexible%20Job%20Shop%20Problem.md)|
 
-
+--------------------------------------------------------------------------
 ### :pushpin: Python 排程 AI 演算法教學 - Genetic Algorithm <br>
 
 ### Introduction
