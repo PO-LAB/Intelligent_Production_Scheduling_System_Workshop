@@ -2,6 +2,12 @@
 
 ## :mega: 2018 智慧生產排程系統研習會 - 2018/12/1 09:05~17:00<br>
 
+<br>
+<div align=center>
+<img src="https://github.com/PO-LAB/Intelligent_Production_Scheduling_System_Workshop/blob/master/poster.JPG" width="600" height="200">
+</div>
+<br>
+
 ### :pushpin: Python 排程數學規劃教學 - JSP by using Mathematical Programming in Python<br>
 
 ### Introduction
