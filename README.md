@@ -1,8 +1,9 @@
 # Intelligent_Production_Scheduling_System_Workshop <br>
 
-## 2018 智慧生產排程系統研習會<br>
-
-### § Python 排程數學規劃教學 - JSP by using Mathematical Programming in Python<br>
+## :mega: 2018 智慧生產排程系統研習會<br>
+### 2018/12/1 09:05~17:00
+-----------------------------------------------------------------------
+### :pushpin: Python 排程數學規劃教學 - JSP by using Mathematical Programming in Python<br>
 
 ### Introduction
 |更新時間|文章|
@@ -17,7 +18,7 @@
 |2018|[FJSP](https://github.com/KevinLu43/JSP-by-using-Mathematical-Programming-in-Python/blob/master/Flexible%20Job%20Shop%20Problem.md)|
 
 
-### § Python 排程 AI 演算法教學 - Genetic Algorithm <br>
+### :pushpin: Python 排程 AI 演算法教學 - Genetic Algorithm <br>
 
 ### Introduction
 |更新時間|文章|
