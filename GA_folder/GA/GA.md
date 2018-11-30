@@ -238,7 +238,7 @@ r = 0.6
 - 連續幾次解的差異都小於設定的數字時停止
 
 #### :unlock: 本步驟所需注意或設定的參數
-- 迭代次數 (Number of iterations)
+- 終止條件 (Termination condition)
 
 ## :black_nib: 總結 (Summary)
 經過上述的介紹，這裡總結一下，在使用基因演算法時，一般而言，必須設定的幾個參數：<br>
